@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/jedgarf" target="_blank"><img src="https://avatars.githubusercontent.com/u/40312999?s=96&v=4" width="200"></a></p>
+<p align="center"><a href="https://github.com/jedgarf" target="_blank"><img src="https://avatars.githubusercontent.com/u/40312999?s=96&v=4" width="100"></a></p>
 
 ## Tech Stack Used
 
